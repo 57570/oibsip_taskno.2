@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.SecondBox
+{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 50px;
+}
+
+.Name
+{
+    color: blue;
+    font-family: 'Inconsolata', monospace;
+    padding-left: 200px;
+    font-size: 2em;
+    margin-left: 300px;
+    margin-bottom: 20px;
+}
+
+.DhoniPic
+{
+    height: 50vh;
+    width: fit-content;
+    padding-right: 200px;
+    margin-right: -120px;
+}
+
+.carousel-item{
+    height: 100vh;
+    width: 100vw;   
+}
+
+.d-block{
+    width: 100vw;    
+}
+
+.AboutDhoni
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.paragraph{
+    text-align: justify;
+    margin-left: 90px;
+    margin-right: 50px;
+    font-size: larger;
+    line-height: 3rem;
+    
+}
+
+.ThirdBox
+{
+    margin-top: 300px;
+}
+
+.ThirdBox div{
+    font-weight: bolder;
+    font-size: 2.5rem;
+    margin-left: 36%;
+    margin-bottom: 40px;
+    margin-top: 230px;
+    color: blue;
+}
+
+.MainBox h1{
+    color: blue;
+}
+
+.SecondImg{
+    height: 50vh;
+    width: 100vw;
+}
+
+.SecondImg img{
+    height: 75vh;
+    width: 89vw;
+    margin-left: 90px;
+    margin-top: 50px;
+}
+
+.ThirdBox p{
+    margin-left: 31vw;
+    text-align: justify;
+    line-height: 3.5rem;
+    font-size: larger;
+    font-family: 'Inconsolata', monospace;
+}

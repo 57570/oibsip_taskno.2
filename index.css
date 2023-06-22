@@ -91,3 +91,17 @@ body{
     font-size: larger;
     font-family: 'Inconsolata', monospace;
 }
+
+.personalInfo
+{
+    height: fit-content;
+    color: black;
+    width: 50vw;
+    border: 1px solid black;
+    margin-left: 25vw;
+}
+
+a{
+    font-size: larger;
+    margin-left: 21vw;
+}
